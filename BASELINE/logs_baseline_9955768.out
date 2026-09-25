@@ -1,0 +1,8 @@
+slurmstepd: info: Setting TMPDIR to /scratch/9955768. Previous errors about TMPDIR can be discarded
+Using device: cuda
+Loading SQuAD dataset...
+Starting training...
+Epoch 1/2
+Epoch 2/2
+Training completed!
+Total GPU execution time: 159.11 seconds
